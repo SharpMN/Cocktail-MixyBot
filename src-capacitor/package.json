@@ -1,0 +1,28 @@
+{
+  "name": "cocktail-remote",
+  "version": "0.0.1",
+  "description": "An app to control the Arduino based cocktail maker using HC-05 Bluetooth module",
+  "author": "3m1n3nc3 <mygames.ng@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@awesome-cordova-plugins/bluetooth-serial": "^6.6.0",
+    "@awesome-cordova-plugins/core": "^6.6.0",
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/app": "^5.0.7",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.7.1",
+    "@capacitor/geolocation": "^5.0.7",
+    "@capacitor/haptics": "^5.0.7",
+    "@capacitor/preferences": "^5.0.7",
+    "@capacitor/splash-screen": "^5.0.7",
+    "@capacitor/status-bar": "^5.0.7",
+    "@hugotomazi/capacitor-navigation-bar": "^3.0.0",
+    "@speedengineering/capacitor-bluetooth-serial": "^1.0.1",
+    "@types/node": "^20.11.24",
+    "cordova-plugin-bluetooth-serial": "^0.4.7",
+    "rxjs": "^7.8.1"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.4"
+  }
+}

@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "An app to control the Arduino based cocktail maker using HC-05 Bluetooth module",
   "productName": "Cocktail Remote",
-  "author": "3m1n3nc3 <mygames.ng@gmail.com>",
+  "author": "SharpMN <marysharp0721@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",

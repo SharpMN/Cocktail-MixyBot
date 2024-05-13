@@ -1,5 +1,5 @@
 /* eslint-disable */
-// https://github.com/michael-ciniawsky/postcss-load-config
+// https://github.com/mary-sharp/postcss-load-config
 
 module.exports = {
   plugins: [
